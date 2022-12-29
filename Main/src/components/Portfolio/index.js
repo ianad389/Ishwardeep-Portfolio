@@ -17,18 +17,7 @@ function Portfolio() {
       link: "https://the-safer-space.herokuapp.com/",
       repo: "https://github.com/ianad389/UCBC_SafeSpace"
     },
-    {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
+    
   ]);
 
   return (
