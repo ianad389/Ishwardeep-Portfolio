@@ -17,7 +17,18 @@ function Portfolio() {
       link: "https://the-safer-space.herokuapp.com/",
       repo: "https://github.com/ianad389/UCBC_SafeSpace"
     },
-    
+    {
+      name: 'CodingQuiz',
+      description: 'Test your coding knowledge',
+      link: "https://ianad389.github.io/Code-Quiz-Final/",
+      repo: "https://github.com/ianad389/UCBC_SafeSpace"
+    },
+    {
+      name: 'Workday Scheduler',
+      description: 'Organize your day',
+      link: "https://ianad389.github.io/Workday-Scheduler-/",
+      repo: "https://github.com/ianad389/Workday-Scheduler-"
+    },
   ]);
 
   return (
