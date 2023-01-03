@@ -4,11 +4,7 @@ function Resume() {
   return (
     <section className="my-5">
       <div className="my-2">
-      <p>
-        Download my <a href="https://www.linkedin.com/in/ishwardeep/">resume</a>
-        <a href="https://github.com/ianad389">GitHub</a>
-        <a href="https://stackoverflow.com/users/19469819/ishi-anand">GitHub</a>
-        </p>
+      
         <h3>Front-end Proficiencies</h3>
         <ul className="skills">
           <li>HTML</li>
