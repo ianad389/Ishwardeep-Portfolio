@@ -3,7 +3,10 @@
 My portfolio consist of 4 of my best project from this course. I wanted to go with a simple black theme because my style is to be simple and classy. I used react to change up fonts and the color of my websit. As well all of my work is linked to my Github.
 
 ## Screenshots
-
+![App Screenshot](/module%2020%20about.png)
+![App Screenshot](/module%2020%20Contact.png)
+![App Screenshot](/module%2020%20Portfolio.png)
+![App Screenshot](/module%2020%20Resume.png)
 ## Instalation
 npm i
 npm start to run application
