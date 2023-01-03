@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.d891da82.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.3c7353bd.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.3c7353bd.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.9fc683b2.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.9fc683b2.js.map",
+    "static/js/2.0a215ca5.chunk.js": "/React-Portfolio/static/js/2.0a215ca5.chunk.js",
+    "static/js/2.0a215ca5.chunk.js.map": "/React-Portfolio/static/js/2.0a215ca5.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.d891da82.chunk.css.map": "/React-Portfolio/static/css/main.d891da82.chunk.css.map",
+    "static/js/2.0a215ca5.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.0a215ca5.chunk.js.LICENSE.txt",
+    "static/media/CodingQuiz.jpg": "/React-Portfolio/static/media/CodingQuiz.c43750ac.jpg",
+    "static/media/IMG_4500_Original.033aa72e.jpg": "/React-Portfolio/static/media/IMG_4500_Original.033aa72e.jpg",
+    "static/media/NFL-Calculator.jpg": "/React-Portfolio/static/media/NFL-Calculator.474b3341.jpg",
+    "static/media/Safespace.jpg": "/React-Portfolio/static/media/Safespace.baba8fae.jpg",
+    "static/media/Workday Scheduler.jpg": "/React-Portfolio/static/media/Workday Scheduler.e1a9447d.jpg",
+    "static/media/cover-image.3f4b8a47.jpg": "/React-Portfolio/static/media/cover-image.3f4b8a47.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fc683b2.js",
+    "static/js/2.0a215ca5.chunk.js",
+    "static/css/main.d891da82.chunk.css",
+    "static/js/main.3c7353bd.chunk.js"
+  ]
+}
